@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="alert alert-info" role="alert">
-          Úspěšně jste se přihlásili. Sem přijde obsah vaší stránky, který má být schovaný za autentifikací. Projekt si můžete stáhnout  <a href="https://github.com/janfriede" class="alert-link">zde</a>.
+          Úspěšně jste se přihlásili. Sem přijde obsah vaší stránky, který má být schovaný za autentifikací. Projekt si můžete stáhnout  <a href="https://github.com/janfriede/vue_auth_template" class="alert-link">zde</a>.
         </div>
       </div>
     </div>
